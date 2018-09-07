@@ -8,3 +8,6 @@ A set of guides for Servoy.
 3. [Using SVN (Subclipse) with Servoy (Subclipse)](https://docs.google.com/document/d/1wEW4zNC7XGqhHhMxbSyyQjOXp3cf_Civ2YOirRpAvtA/pub)
 
 4. [Phonegap guide](https://docs.google.com/document/d/e/2PACX-1vTVw6Q4RYwnZE9F4f_-kRxxhFX-yV0adL_wdHwADJMNLGwBa9fUQaEF2LWuW3xD_kW3sOowrQZEXbvY/pub)
+
+5. [OKTA Integration guide](https://docs.google.com/document/d/e/2PACX-1vSdcuSHeCHD9dDWMWGah9iltNDU7YwMHG7Stww5DhoYSlVcJ2lBTBb6RFV7BfXKbSuo2KN_rzVA2cov/pub)
+
