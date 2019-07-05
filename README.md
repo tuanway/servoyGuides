@@ -11,3 +11,4 @@ A set of guides for Servoy.
 
 5. [OKTA Integration guide](https://docs.google.com/document/d/e/2PACX-1vSdcuSHeCHD9dDWMWGah9iltNDU7YwMHG7Stww5DhoYSlVcJ2lBTBb6RFV7BfXKbSuo2KN_rzVA2cov/pub)
 
+6. [Mobile Framework guide](https://docs.google.com/document/d/e/2PACX-1vScWK1CtdPgXUN9d7T7Dxvh20-bh7WbtSOKzQROWYT_IWfhCeFkqEtfyPHoMqbcQEMqgJ4LF81Bz8OH/pub)
