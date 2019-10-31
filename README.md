@@ -13,4 +13,4 @@ A set of guides for Servoy.
 
 6. [Mobile Framework guide](https://docs.google.com/document/d/e/2PACX-1vScWK1CtdPgXUN9d7T7Dxvh20-bh7WbtSOKzQROWYT_IWfhCeFkqEtfyPHoMqbcQEMqgJ4LF81Bz8OH/pub?&embedded=true)
 
-7. [Mobile Framework guide](https://docs.google.com/document/d/e/2PACX-1vQ0hLbPqdPNMphAbsZPr55cMAaRqOcQrOtw94bX1HAdylLQst-tgk1DpNQqZdwmHDs_NGSxQP9AWMvb/pub?&embedded=true)
+7. [Using Eclipse Git and Servoy](https://docs.google.com/document/d/e/2PACX-1vQ0hLbPqdPNMphAbsZPr55cMAaRqOcQrOtw94bX1HAdylLQst-tgk1DpNQqZdwmHDs_NGSxQP9AWMvb/pub?&embedded=true)
